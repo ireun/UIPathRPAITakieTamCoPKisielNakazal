@@ -1611,11 +1611,11 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "Introduction",
-      "projectName": "Introduction",
-      "projectPath": "C:\\Users\\gatko\\OneDrive\\Dokumenty\\UiPath\\Introduction\\.local",
+      "projectUniqueName": "Exceptions",
+      "projectName": "Exceptions",
+      "projectPath": "C:\\Users\\gatko\\OneDrive\\Dokumenty\\UiPath\\Exceptions\\.local",
       "packagesPath": "C:\\Users\\gatko\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gatko\\OneDrive\\Dokumenty\\UiPath\\Introduction\\.local"
+      "outputPath": "C:\\Users\\gatko\\OneDrive\\Dokumenty\\UiPath\\Exceptions\\.local"
     },
     "frameworks": {
       "net461": {
@@ -1643,14 +1643,5 @@
         }
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU3034",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'Extended.Wpf.Toolkit 2.8' from source 'https://api.nuget.org/v3/index.json': This package is signed but not by a trusted signer.",
-      "libraryId": "Extended.Wpf.Toolkit"
-    }
-  ]
+  }
 }
